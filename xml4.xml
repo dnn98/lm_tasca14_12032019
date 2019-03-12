@@ -9,6 +9,7 @@
 		<option>Timón y Pumba</option>
 		<option>Hermanos Wright</option>
 		<answer>3</answer>
+	</question>
 	<question>
 		<type>checkbox</type>
 		<title>¿Cuales son las estructuras básicas en una aeronave?</title>
