@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "dtd.dtd">
+<questions>
+	<question>
+		<type>text</type>
+		<title>Completa la frase: La aeronáutica también engloba la ____________, que estudia el movimiento y el comportamiento del aire cuando un objeto se desplaza en su interior, como sucede con los aviones.</title>
+		<answer>aerodinámica</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>Completa la frase: Los (respuesta de la pregunta 3) representan el desarrollo de la primera aeronave con motor controlada que en su primer vuelo fue de sólo 59 segundos en el año ____, en la playa Kitty Hawk, en Ohio, Estados Unidos</title>
+		<answer>1903</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Quiénes son considerados los que inventaron el primer aeroplano del mundo de forma exitosa?</title>
+		<option>David Bisbal y Luis Fonsi</option>
+		<option>Hermanos Walter</option>
+		<option>Timón y Pumba</option>
+		<option>Hermanos Wright</option>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Que aeronave de las siguientes es originaria de EEUU?</title>
+		<option>XML-1</option>
+		<option>F-22</option>
+		<option>SU-35</option>
+		<option>Seat Ibiza</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Cuales son las estructuras básicas en una aeronave?</title>
+		<option>fuselaje</option>
+		<option>Alerón</option>
+		<option>Piscina de aire</option>
+		<option>Alas</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Que aeronaves de las siguientes son originarias de Rusia?</title>
+		<option>XML-1</option>
+		<option>YF-22</option>
+		<option>SU-35</option>
+		<option>MIG-29</option>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Como se llaman los tres ejes de rotación de una aeronave?</title>
+		<option>Alabeo</option>
+		<option>Deslizamiento vertical</option>
+		<option>Piececeo</option>
+		<option>Guiñada</option>
+		<answer>0</answer>
+		<answer>3</answer>
+		<answer>4</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>El Cessna 140 es un avión de tipo...</title>
+		<option>Civil</option>
+		<option>Militar</option>
+		<option>Comercial</option>
+		<option>De uso general</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>Un avión cisterna es...</title>
+		<option>un avión usado para reabastecer en vuelo a otras aeronaves</option>
+		<option>un avión con un baño muy chulo</option>
+		<option>un avión usado en la tarea de extinción de fuegos</option>
+		<option>un avión con una cisterna</option>
+		<answer>0</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>¿Que aeronave de las siguientes es originaria de Europa?</title>
+		<option>XML-1</option>
+		<option>YF-22</option>
+		<option>Typhoon</option>
+		<option>ATD-0</option>
+		<answer>1</answer>
+	</question>
+</questions>
